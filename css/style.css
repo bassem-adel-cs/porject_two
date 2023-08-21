@@ -6,9 +6,6 @@
 	line-height:2;
 	
 }
-:root{
-	--main-font-size:16px;
-}
   html{
 	scroll-behavior:smooth;
 }
@@ -51,7 +48,7 @@ header{
 	margin-left:5px;
 	text-decoration:none;
 	padding:23px 5px;
-	font-size:14px;
+	font-size:18px;
 	position:relative;
 	font-weight:bold;
 }
