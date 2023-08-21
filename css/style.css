@@ -15,7 +15,9 @@
 	text-align:center;
 	padding:20px;
 }
-
+#services{
+	font-size:40px;
+}
 header{
 	width:100%;
 	background-color:black
